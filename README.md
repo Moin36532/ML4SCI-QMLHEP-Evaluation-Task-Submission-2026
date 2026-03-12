@@ -21,7 +21,7 @@ This repository contains the **Jupyter Notebooks (`.ipynb`)** and exported **PDF
 - **Task IX:**  Kolmogorov-Arnold Network
 - **Task XI:** PQC Parameter Estimation via Classical Learning  
 - **Task XII:** PQC Parameter Estimation via Reinforcement Learning  
-
+- **Task IV** Quantum Generative Adversarial Network (QGAN)
 ---
 
 **Note:** All quantum simulations were implemented using **PennyLane**.
